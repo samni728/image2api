@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+data/
+output/
+tmp/uploads/*
+tmp/outputs/*
+logs/
+run/
+!tmp/uploads/.gitkeep
+!tmp/outputs/.gitkeep
